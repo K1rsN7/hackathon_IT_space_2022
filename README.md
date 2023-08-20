@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
   <h1>Hackathon "IT Space" 2022
   the command "Encoders"</h1>
   <h3>Information about the hackathon</h3>
