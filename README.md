@@ -1,15 +1,14 @@
-
 <div align="center">
   <h1>Hackathon IT Space 2022 team "Coders".</h1>
   <div align="center">
   <a href="https://github.com/K1rsN7/hackathon_IT_space_2022/issues">
-		<img src="https://img.shields.io/github/issues/K1rsN7/hackathon_IT_space_2022?color=3539D0&labelColor=1C2325&style=for-the-badge">
+		<img src="https://img.shields.io/github/issues/K1rsN7/hackathon_IT_space_2022?color=170D0A&labelColor=BC3530&style=for-the-badge">
 	</a>
 	<a href="https://github.com/K1rsN7/hackathon_IT_space_2022/stargazers">
-		<img src="https://img.shields.io/github/stars/K1rsN7/hackathon_IT_space_2022?color=3539D0&labelColor=1C2325&style=for-the-badge">
+		<img src="https://img.shields.io/github/stars/K1rsN7/hackathon_IT_space_2022?color=170D0A&labelColor=BC3530&style=for-the-badge">
 	</a>
 	<a href="./LICENSE">
-		<img src="https://img.shields.io/badge/Licence-CC%20BY--NC%204.0-3539D0?style=for-the-badge&labelColor=1C2325" alt="Лицензия CC BY-NC 4.0">
+		<img src="https://img.shields.io/badge/Licence-CC%20BY--NC%204.0-170D0A?style=for-the-badge&labelColor=BC3530" alt="Лицензия CC BY-NC 4.0">
 	</a>
 </div>
   <h3>Information about the hackathon</h3>
@@ -83,3 +82,12 @@ The direction *"Mobile Game Development "* was chosen by a voting team.
   <img src="image6.png"/ width=25%>
   <img src="image7.png"/ width=25%>
 </div>
+<h2 align="center"> Star History</h2>
+<a href="https://star-history.com/#K1rsN7/hackathon_IT_space_2022&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=K1rsN7/hackathon_IT_space_2022&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=K1rsN7/hackathon_IT_space_2022&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=K1rsN7/SubManage&type=Date" />
+ </picture>
+</a>
+
